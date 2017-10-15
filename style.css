@@ -16,8 +16,8 @@ color: rgb(83, 175, 19);
 }
 div#instructions{
 	position:relative;
-top: 0px;
-left: -400px;
+top:  900px;
+left: 0px;
 color:red;
 }
 table {
